@@ -1,0 +1,4 @@
+# Improving Neural Machine Translation for Sanskrit-English
+
+## Abstract
+Sanskrit is one of the oldest languages of the Asian Subcontinent that fell out of common usage around 600 B.C. In this paper, we at- tempt to translate Sanskrit to English using Neural Machine Translation approaches based on Reinforcement Learning and Transfer learning that were never tried and tested on Sanskrit. Along with the paper, we also release monolingual Sanskrit and parallel aligned Sanskrit-English corpora for the research community. Our methodologies outperform the previous approaches applied to Sanskrit by various re- searchers and will further help the linguistic community to accelerate the costly and time consuming manual translation process.
